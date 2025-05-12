@@ -1,4 +1,4 @@
 import qrcode as qr
 
-img = qr.make("https://github.com/himanshi-0070/React")
-img.save("GitHub.png")
+img = qr.make("https://www.wikipedia.org/")
+img.save("Wikiepedia.png")
